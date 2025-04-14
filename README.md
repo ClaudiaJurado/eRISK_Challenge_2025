@@ -3,6 +3,7 @@ Early Detection of Depression through Analysis of Symptomatology and Conversatio
 
 ## Goals:
 1. Developing an intelligent system capable of detecting and ranking sentences according to their relevance to each of the 21 depressive symptoms defined in the BDI-II questionnaire.
+   https://www.ismanet.org/doctoryourspirit/pdfs/Beck-Depression-Inventory-BDI.pdf
 
     The 21 items of the BDI questionnaire are the following: 
     
@@ -31,7 +32,7 @@ Early Detection of Depression through Analysis of Symptomatology and Conversatio
     These 21 feelings correspond to the symptoms evaluated in the Beck Depression Inventory (BDI-II), a widely used self-report questionnaire designed to assess the severity of depressive symptoms in individuals. Each of these symptoms represents a distinct psychological or physical manifestation commonly associated with depression.
     The BDI-II includes a scoring scale for each symptom, ranging from 0 to 3, where higher scores indicate greater severity or frequency of that particular symptom. 
 
-2. Design a sequential model capable of detecting depression through the analysis of full conversational contexts (more than just individual messages). 
+3. Design a sequential model capable of detecting depression through the analysis of full conversational contexts (more than just individual messages). 
 
 # Data sets 
 
