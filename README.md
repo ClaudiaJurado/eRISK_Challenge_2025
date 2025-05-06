@@ -67,7 +67,7 @@ Since the task was new for this year, non test-dataset exist.
 
 ## Task 2:
 
-* A prediction for each user indicating the likelihood of depression.
+* For each user interaction (i.e., each piece of writing), the system must make a prediction about whether the user is displaying signs of depression after processing the complete conversation context (which includes the discussion title and comments from other users).
 ## Task 3 -- TBD  
 Ideally, if the results are promising, our goal would be to develop an interactive chatbot or conversational agent capable of engaging in natural dialogue while continuously assessing the user's mental state, with the ability to detect early signs of depression.
 
